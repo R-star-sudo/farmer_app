@@ -1,0 +1,9 @@
+{
+  "name": "KisanSmart - AI Farmer Assistant",
+  "description": "An intelligent, AI-powered mobile assistant for Indian farmers using Gemini 2.5 Flash. Features crop disease detection, weed identification, weather advice, and market guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
